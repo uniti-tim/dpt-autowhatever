@@ -319,7 +319,7 @@ export default class Autowhatever extends Component {
     const inputComponent = renderInputComponent({
       type: 'text',
       value: '',
-      autoComplete: 'off',
+      autoComplete: 'new-input-item',
       'aria-autocomplete': 'list',
       'aria-controls': itemsContainerId,
       'aria-activedescendant': ariaActivedescendant,
