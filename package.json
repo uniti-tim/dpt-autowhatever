@@ -1,0 +1,25 @@
+{
+  "name": "dpt-autowhatever",
+  "version": "1.0.0",
+  "description": "Proper Chrome autosuggest autofill none",
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uniti-tim/dpt-autowhatever.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uniti-tim/dpt-autowhatever/issues"
+  },
+  "homepage": "https://github.com/uniti-tim/dpt-autowhatever#readme"
+}
